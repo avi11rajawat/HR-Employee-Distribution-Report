@@ -9,13 +9,13 @@ The objective of this project was to create an intuitive dashboard that offers a
 
 Features
 
-	•	Employee Distribution by State: Visual map showing the count of employees across various states.
-	•	Age Group Analysis: Bar chart to classify employees by different age groups.
-	•	Job Title Breakdown: Detailed donut chart showcasing the diversity in job roles.
-	•	Gender and Race Representation: Charts representing the count of employees by gender and racial categories.
-	•	Employment Type: Distribution of employees working at Headquarters vs. Remote locations.
-	•	Average Employment Length: Insight into the average tenure of employees.
-	•	Employee Change Over Years: Line chart depicting workforce trends over the years.
+• Employee Distribution by State: Visual map showing the count of employees across various states.
+• Age Group Analysis: Bar chart to classify employees by different age groups.
+• Job Title Breakdown: Detailed donut chart showcasing the diversity in job roles.
+• Gender and Race Representation: Charts representing the count of employees by gender and racial categories.
+• Employment Type: Distribution of employees working at Headquarters vs. Remote locations.
+• Average Employment Length: Insight into the average tenure of employees.
+• Employee Change Over Years: Line chart depicting workforce trends over the years.
 
 Data Source
 
@@ -23,9 +23,9 @@ The data for this project originated from a raw Excel dataset containing employe
 
 Key Learning Points
 
-	•	Cleaning and transforming large datasets using SQL to make them ready for analysis.
-	•	Building a user-friendly and informative two-page Power BI dashboard.
-	•	Effectively visualizing data to communicate insights on diversity, distribution, and employment trends.
+• Cleaning and transforming large datasets using SQL to make them ready for analysis.
+• Building a user-friendly and informative two-page Power BI dashboard.
+• Effectively visualizing data to communicate insights on diversity, distribution, and employment trends.
 
 What I Learned from this Project
 
